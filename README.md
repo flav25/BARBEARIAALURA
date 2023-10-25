@@ -11,4 +11,10 @@ Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
 ![banner](https://github.com/flav25/BarbeariaAlura/assets/144039664/1e67bf06-d88e-4b54-b2af-569aeac43bd9)
 
 
+
+
+
+
+
+
 ![beneficios](https://github.com/flav25/BarbeariaAlura/assets/144039664/7a613fe3-a202-4ee5-ad88-33c5b5e01282)
